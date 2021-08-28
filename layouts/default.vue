@@ -3,20 +3,6 @@
     <div id="body">
       <Nuxt />
     </div>
-    <footer>
-      <div class="text-center">
-        <span>Made by a nerd for nerds</span>
-        <span>|</span>
-        <a href="https://github.com/milan090/physics-lab" target="_blank "
-          >Find Physics Lab on Github</a
-        >
-        <div>
-          <a href="https://www.youtube.com/watch?v=j5a0jTc9S10" target="_blank"
-            >About</a
-          >
-        </div>
-      </div>
-    </footer>
   </div>
 </template>
 
